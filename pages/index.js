@@ -1,7 +1,10 @@
+import React from 'react';
+import {Text} from 'react-native';
+
 function Home(){
     return (
        
-         <h1>Projeto Git! Em desenvolvimento</h1>
+         <Text>Projeto Git! Em desenvolvimento com varios commits e melhorias constantes</Text>
     
     );
 }
